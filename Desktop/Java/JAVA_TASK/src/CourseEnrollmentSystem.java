@@ -88,6 +88,7 @@ public class CourseEnrollmentSystem {
             // Display results
             System.out.println("===== Enrollment Summary =====");
             System.out.println("Total student : " + numberOfStudents);
+
             System.out.println("Total unique students: " + studentIds.size());
             System.out.println("All student IDs: " + studentIds);
             System.out.println("Student IDs with their enrolled courses:" + studentCourses);
@@ -97,4 +98,8 @@ public class CourseEnrollmentSystem {
 
         scanner.close();
     }
+
 }
+
+
+
