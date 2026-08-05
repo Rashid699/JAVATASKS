@@ -45,11 +45,11 @@ public class StudentSetManager {
 
 
 
-                IO.println("Current elements in Set: " + studentsIdSet);
+                System.out.println("Current elements in Set: " + studentsIdSet);
 
 
         }
-        IO.println(studentsIdSet);
+        System.out.println(studentsIdSet);
         System.out.println("Total IDs entered:" +idStudent);
         System.out.println("Total unique student IDs:" + idStudent);
         System.out.println("All unique student IDs:" + studentsIdSet);

@@ -91,8 +91,13 @@ public class LibraryBookTracker {
 
         }
 
-        scanner.close();
 
     }
+            scanner.close();
+
 }
+
+
+
+
 
