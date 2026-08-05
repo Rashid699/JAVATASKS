@@ -321,6 +321,8 @@ public class UniversityCourseRegistrationSystem {
             System.out.println("Student ID: " + id);
             System.out.println("Courses: " + studentCourses.get(id));
             System.out.println("--------------------------------");
+            //End
+
         }
 
         // Close the Scanner
